@@ -1,4 +1,4 @@
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
 http://45.167.2.101:8000/play/a0rn/index.m3u8
