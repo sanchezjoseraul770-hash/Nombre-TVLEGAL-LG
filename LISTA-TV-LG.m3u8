@@ -3,11 +3,19 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
 http://45.167.2.101:8000/play/a0rn/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO HD
 http://181.119.177.253:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",HBO Family HD
-http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Xtreme HD
 http://186.33.61.182:8000/play/a011/index.m3u8
@@ -15,8 +23,30 @@ http://186.33.61.182:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.1)
 http://181.79.86.130:8000/play/a041/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC TV
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209163.png?1785464337",MAX2 TV
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208817.png?1785464695",MAXC Family TV
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC Comedy TV
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png",Imagen Universal (Rep. Dominicana)
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
 http://181.119.177.253:8000/play/a0cp/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",HBO Family HD
+http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png",Golden EDGE HD
 http://45.167.2.101:8000/play/a0sc/index.m3u8
@@ -147,20 +177,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC TV
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209163.png?1785464337",MAX2 TV
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208817.png?1785464695",MAXC Family TV
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC Comedy TV
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png",Imagen Universal (Rep. Dominicana)
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png",Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -205,14 +222,7 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png",MultiVox La India (SUB/IA DUB)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Acción
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png",Azteca Internacional HD
 https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
