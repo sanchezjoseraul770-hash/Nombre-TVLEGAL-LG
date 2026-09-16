@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD 
 http://45.167.2.101:8000/play/a0rn/index.m3u8
 
 
@@ -44,20 +44,20 @@ http://181.119.177.253:8000/play/a00x/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg",MAXTV Movies [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg",MAXTV Movies 
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg",MAXTV Retro [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg",MAXTV Retro 
 https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png",Codigo TV [No 24/7] (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png",Codigo TV 
 https://edge.essastream.com/codigotv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Xtreme HD
 http://186.33.61.182:8000/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD (Opc.1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",Warner Channel HD 
 http://181.79.86.130:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC TV
@@ -72,27 +72,39 @@ https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC Comedy TV
 https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png",Imagen Universal (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DP6HmDV.png",Imagen Universal 
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU HD (720p)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN 
+http://45.167.2.138:8000/play/a0r4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png",Win+ HD
+http://186.148.184.22:8000/play/a0ih/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",ESPN 3 HD 
+http://45.167.2.101:8000/play/a0q0/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU HD 
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports",ESPN Deportes HD (720p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports",ESPN Deportes HD 
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 
@@ -100,14 +112,14 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Movies",Cine Premium (1080p)
+#EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Movies",Cine Premium 
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD 
 http://181.119.177.253:8000/play/a0cp/index.m3u8
 
 
@@ -120,10 +132,10 @@ http://45.167.2.101:8000/play/a0sc/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png",De Película HD 
 http://45.167.2.101:8000/play/a0ru/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png",CINE MEXICANO [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png",CINE MEXICANO 
 http://138.94.3.106:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM HD
@@ -137,25 +149,25 @@ http://45.167.2.101:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png",Canal 3 Impresionante SD
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png",Canal 9 [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png",Canal 9 
 http://186.33.26.18:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png",Canal 10 TVES [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png",Canal 10 TVES 
 https://streamingcws30.com/tves/videotves/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png",Canal 11 TuTV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png",Canal 12 HD [Geo-Blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png",Canal 12 HD 
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png",Canal TRV [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png",Canal TRV 
 http://45.167.2.101:8000/play/a0re/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png",Canal 7 Televisiete SD [Opc.3]
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png",Canal 7 Televisiete SD 
 http://45.5.118.152:8000/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png",A+ Guate HD [Opc.2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtGK7iZ.png",A+ Guate HD 
 http://181.119.177.253:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbmHPnO.png",Guatevisión SD
@@ -164,37 +176,37 @@ http://190.61.101.11:7050/play/a088/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8F1DvkY/barbetv-santa-rosa.png",Barbe TV HD
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxLFq0rq/sil-tv-suchitepequez-en-vivo.png",SilTV HD [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxLFq0rq/sil-tv-suchitepequez-en-vivo.png",SilTV HD 
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKB3x3yh/canal-sol-tv.png",Canal Sol TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxcmv9Ds/vision-tv-solola.png",Visión TV HD (Solola)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxcmv9Ds/vision-tv-solola.png",Visión TV HD 
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1t8xkL.png",Deportes TVC SD
 http://190.61.101.11:7050/play/a06t/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD 
 http://45.5.118.188:8000/play/a01e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png",Dragon Ball / Dragon Ball Z (América Latina)
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png",Dragon Ball / Dragon Ball Z 
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png",Dragon Ball Super (América Latina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png",Dragon Ball Super 
 https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png",Dragon Ball Películas (América Latina)
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png",Dragon Ball Películas 
 https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png",Naruto (Películas) (América Latina)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png",Naruto (Películas) 
 https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png",Anime Visión (España) [Opc.1]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png",Anime Visión 
 https://jmp2.uk/stvp-ES300029LP
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png",Anime Visión Classics (España) [Opc.1]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png",Anime Visión Classics 
 https://jmp2.uk/stvp-ES3000288I
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png",Yu-Gi-Oh! (España)
@@ -243,27 +255,27 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png",Cine Western
 https://jmp2.uk/stvp-ES2300005G7
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",Mega Cine TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",Mega Cine TV 
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png",El 70 TV [No 24/7] (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/el-70-tv.png",El 70 TV 
 https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png",Retrox TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png",Retrox TV
 https://stream-retroxtv.site/live/ofertasplustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png",RETROX PLUS [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png",RETROX PLUS 
 https://live20.bozztv.com/akamaissh101/ssh101/liveretroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus TV 
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png",TeleCinco Trelew [No 24/7] (Chubut / Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png",TeleCinco Trelew 
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png",MultiVox La India (SUB/IA DUB)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwNtF8S5/20.png",MultiVox La India 
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 
 
@@ -274,20 +286,19 @@ https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Mas+ HD (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN SD (Opc.2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN SD 
 http://45.5.118.152:8000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",Distrito Comedia HD (Opc.3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",Distrito Comedia HD 
 http://190.60.48.150:8000/play/distrito-comedia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png",TLNovelas HD [Opc.1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AKW7Uu.png",TLNovelas HD 
 http://190.60.48.150:8000/play/tlnovelas/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png",Pasiones HD [Opc.3]
-http://45.5.116.228:8000/play/a0kq/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png",BBC Series (España)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
@@ -308,7 +319,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png",Film & Arts HD [Opc.3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png",Film & Arts HD 
 http://45.167.2.101:8000/play/a0q9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Español (Internacional / América)
@@ -342,11 +353,3 @@ http://181.119.83.235:8000/play/C027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXNPjZb2/pfl-mma-es.png",PFL MMA (EE.UU.) [EN]
 https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN [Opc.3]
-http://45.167.2.138:8000/play/a0r4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png",Win+ HD
-http://186.148.184.22:8000/play/a0ih/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",ESPN 3 HD (Opc.2)
-http://45.167.2.101:8000/play/a0q0/index.m3u8
