@@ -114,6 +114,26 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHZx2pHH/Runtime-Cine-y-Series-en-directo-Online.png" group-title="RUN:TIME TV",RUN:TIME Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg" group-title="RUN:TIME TV",RUN:TIME Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="RUN:TIME TV",RUN:TIME Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
 
 
 
