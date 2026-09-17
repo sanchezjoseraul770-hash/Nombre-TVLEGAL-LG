@@ -113,11 +113,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD 
-http://181.119.177.253:8000/play/a0cp/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",HBO Family HD
 http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
 
