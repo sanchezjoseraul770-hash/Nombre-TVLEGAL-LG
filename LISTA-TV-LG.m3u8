@@ -45,6 +45,12 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO HD
 http://181.119.177.253:8000/play/a00x/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Xtreme HD
+http://186.33.61.182:8000/play/a011/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",HBO Family HD
+http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg",MAXTV Movies 
@@ -57,8 +63,6 @@ https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 https://edge.essastream.com/codigotv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",HBO Xtreme HD
-http://186.33.61.182:8000/play/a011/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png?1785464177",MAXC TV
@@ -119,8 +123,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",HBO Family HD
-http://201.174.175.3:8000/play/a0y3/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png",Golden EDGE HD
@@ -331,8 +334,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png",Sky Sports LaLiga
 http://190.61.101.11:7050/play/a04g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png",FOX GUA
-http://190.61.101.11:7050/play/a0a4/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5x7Vq43/Combatv.png",CombaTV (Internacional)
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
