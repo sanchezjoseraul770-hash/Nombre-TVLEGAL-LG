@@ -334,7 +334,17 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png",Sky Sports LaLiga
 http://190.61.101.11:7050/play/a04g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="México", Multimedios Canal 6 HD (CDMX)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvSLm9U.png" group-title="México", Clic TV HD (TV Azteca) (Nacional)
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="México", Estrella TV HD (Nacional)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="México", Estrella TV Games HD (Nacional)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5x7Vq43/Combatv.png",CombaTV (Internacional)
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
