@@ -1,4 +1,7 @@
 
+#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD 
+http://186.33.26.18:8000/play/a0sz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
@@ -7,8 +10,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 
 
 
-#EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD 
-http://186.33.26.18:8000/play/a0sz/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Acción
