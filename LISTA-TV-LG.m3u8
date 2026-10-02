@@ -126,7 +126,453 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Live Stream Schedule
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTM3U
 
+#EXTINF:-1 group-title="Deportes",Telemundo Deportes Ahora
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
+
+#EXTINF:-1 group-title="Deportes",Azteca Deportes Network
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",ITV Deportes
+https://amg01602-amg01602c3-tv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-tvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Canela TV Deportes
+https://amg00658-amg00658c10-tv-international-7279.playouts.now.amagi.tv/playlist/amg00658-mediafast-deporteslt-tvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Lucha Plus
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",PowerNation
+https://amg01258-amg01258c3-tv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-tvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Motorvision TV
+https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
+
+#EXTINF:-1 group-title="Deportes",World Poker Tour
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Red Bull TV ES
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",UFC Tubi
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Tennis Plus
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Women's Sports Network
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",TOP Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Racer International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Rally TV FAST
+https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Enlace TBN
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TV Maná Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",CBN Español
+https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Sophia TV Español
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Ágape TV Canal 8
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TaberTV
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TV León de Judá
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Ministerios Ebenezer
+https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TV Solidaria Remar
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Cristovisión
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Canal Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TNE TV Evangélica
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Gracia TV
+https://v4.tustreaming.cl/graciatv/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Televida Chillán
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",MTNA TV
+https://live.mtna.tv/hls/mtna/mtna.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Canal ISB San Bernardo
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",NCTV San Joaquín
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",VC Online
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",San José TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Asomavisión
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TV Universal
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",IeanJesus
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Bendición Channel
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",UMVirtual Montemorelos
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos",Zoe Visión
+https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+
+#EXTINF:-1 group-title="Religiosos",TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela TV Latinoamérica
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Cinema LT
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Cine Picante
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Cine Romántico
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Acción Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Peli Mex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Seasonal
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonal-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Narco Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Canela Clásicos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Canela TV",Thema Vive Kanal Drama
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Saber Más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
+
+#EXTINF:-1 group-title="Sony Channels",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="LG Channels",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+
+#EXTINF:-1 group-title="LG Channels",LG 1+1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
+
+#EXTINF:-1 group-title="LG Channels",LG 1:FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+
+#EXTINF:-1 group-title="LG Channels",LG 1: SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Música",Super Música
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+
+#EXTINF:-1 group-title="Música",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",La Perla Radio TV
+https://eu1.servers10.com:8081/8068/index.m3u8
+
+#EXTINF:-1 group-title="Música",Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+
+#EXTINF:-1 group-title="Música",Radio Cuenca Estéreo
+https://eu1.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 group-title="Música",Radio Monumental TV
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+
+#EXTINF:-1 group-title="Música",Canela Music Hits
+https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/cb563e1e7a6c628984cc3c78d1f762eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dab6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c41de72a1af1c56953d51e2d04bcb8115e985c959c816d46bf015cb93edda8545d09bc332fc52b3605e0b7524c9d84ba8a32cde5027da58e6130a745c33c4b192e44730f43f293ecbdebb71e16271b4e4168e7523b340b94281228368ab73c7ab2ef2e5d3572530a197479e9a93f645d9aa3f8aedd39ade02a3ac52719ce41d7b46865ed92d140891e8c71bbe6474fcab0e8aae601134c1de10d5cdf2cbd8b9834e9332d987daac7d131e2d5459c66aab943b8f729d60fe9a5a617d5d54a19f62c184f257242d1ad5d71087455bf1f0a3b7f222778a6c1251ed20fe5e0667c37d2c5fed3ff6973923d8725ccb6573ab1665c071fdbe2de7ae94b0556cfb8d9102da6be8fa5b86a04cf9236c1752c1874635724573d4e1711e7028933783fdfea126594ebc8d8294a97e31042b1841038df69519b687c33b1205ce55321a1a3513910196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3cc228d07d3674642267352beddc550da7161b19e939294062/104/1920x1080_6423560/index.m3u8
+
+#EXTINF:-1 group-title="Música",Radio Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 group-title="Música",Turbo Mix Radio TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 group-title="Música",TVUNO
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Salsa Gorda Television
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Retro Plus TV Inglés
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Retro Plus TV Español
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",PortalFoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",AE Radio TV
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/chunklist_w2050818423.m3u8
+
+#EXTINF:-1 group-title="Música",Memorias Classic
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+
+#EXTINF:-1 group-title="Música",Memorias TV
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+
+#EXTINF:-1 group-title="Música",Memorias Pop Latino
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+
+#EXTINF:-1 group-title="Música",Memorias Tropical
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+
+#EXTINF:-1 group-title="Música",Paréntesis TV
+https://freya.mivideo.pro/parentesistv/index.m3u8
+
+#EXTINF:-1 group-title="Música",Planeta TV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Antena Music
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 group-title="Música",Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+
+#EXTINF:-1 group-title="Música",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 group-title="Música",Mas FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 group-title="Música",Azahares Radio Visual
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Beats Radio 100.5 FM
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 group-title="Música",Cadena 103 Olavarría
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",La Hermandad Salsera
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Mass Musica
+https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Chamame TV
+https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Ritmo Universal
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Tropi TV
+https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Xpectra Groove Top Hits
+https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 group-title="Música",Cool Summer Channel
+https://d3shyymv55gv9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ztctwwz7lr9nt/csts.m3u8
+
+#EXTINF:-1 group-title="Música",Molahits TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 group-title="Música",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 group-title="Música",Verbena TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+
+#EXTINF:-1 group-title="Música",Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 group-title="Deportes",Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",Multivisión Sports Clásicos
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
+#EXTINF:-1 group-title="Deportes",TVQ Sports
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",SportMax News
+https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Deportes",Deportes13
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Teletrak TV
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Turf Móvil
+https://tvturf4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 group-title="Deportes",Monterrico TV
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="Deportes",LaLiga Inside
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",Surf Channel
+https://d3oxrjqn271yyu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s0n4neu74pe7t/live/fast-channel-surfchannel-22ac1747/fast-channel-surfchannel-22ac1747.m3u8
+
+#EXTINF:-1 group-title="Deportes",MyPadel TV
+https://d1zpoa0s0okzmu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/live/fast-channel-mypadeltv-c792478d/fast-channel-mypadeltv-c792478d.m3u8
+
+#EXTINF:-1 group-title="Deportes",SportMax
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Deportes",SportMax 2
+https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Deportes",Box Gamers
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",FOX Internacional
+https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fox en Tubi Xtra
+https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",beIN Sports
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fox Sports en Español
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+
+#EXTINF:-1 group-title="Deportes",TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",FIFA+ ES
+https://87bb29fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",Telemundo Deportes Ahora 1080p
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="Documentales y Cultura",Xphere One
 https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
