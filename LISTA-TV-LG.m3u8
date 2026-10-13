@@ -112,6 +112,50 @@ https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/p
 
 
 
+#EXTINF:-1 group-title="FreeTV",FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Saber Más
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
+
+#EXTINF:-1 group-title="FreeTV",FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
+
+#EXTINF:-1 group-title="Sony Channels",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="LG Channels",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+
+#EXTINF:-1 group-title="LG Channels",LG 1+1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
+
+#EXTINF:-1 group-title="LG Channels",LG 1:FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+
+#EXTINF:-1 group-title="LG Channels",LG 1: SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
 
 
 
@@ -664,50 +708,6 @@ https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/pl
 #EXTINF:-1 group-title="Canela TV",Thema Vive Kanal Drama
 https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="FreeTV",FreeTV Estelar
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Sureño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Live
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Clásico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Saber Más
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16474
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
-
-#EXTINF:-1 group-title="FreeTV",FreeTV Banda
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
-
-#EXTINF:-1 group-title="Sony Channels",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="LG Channels",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
-
-#EXTINF:-1 group-title="LG Channels",LG 1+1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
-
-#EXTINF:-1 group-title="LG Channels",LG 1:FILMS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
-
-#EXTINF:-1 group-title="LG Channels",LG 1: SPOTLIGHT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
 
 #EXTM3U
 
